@@ -1,0 +1,20 @@
+
+To do:
+
+Done:
+
+1) Develop Islam Companion api based on mysql database. api should have all the features of current api
+2) Add function to api for fetching Holy Quran Navigator html
+3) Update the WordPress plugin so it saves the navigiation information
+4) Make sure all features are working 
+5) Break down the api functions into smaller functions
+6) Make sure all API functions are using DataObjectAbstraction classes
+7) Make sure input parameters of all api functions are checked and validated
+8) Create simple unit tests for api functions
+9) Create class for importing Holy Quran data from text files and xml files. the data should be imported as WordPress custom posts and custom taxonomies 
+10) Create class for fetching WordPress posts and taxonomies
+11) Use the WordPress class with Islam Companion API
+12) User should have option of either using WordPress API or HTTP API
+13) Publish changes to WordPress as version 2.0.0
+14) Added Hadith text in English to Islam Companion API
+15) Added shortcodes to plugin for displaying Holy Quran and  verses

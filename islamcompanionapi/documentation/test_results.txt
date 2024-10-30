@@ -1,0 +1,14 @@
+
+1) Testing function: IslamCompanionApi\Test\WordPressTesting::TestAddHolyQuranData
+Result: passed
+Number of test cases: 1
+Number of asserts: 64
+
+
+
+Result of unit testing: 
+
+Number of functions tested: 1
+Number of asserts: 64
+Number of test cases: 1
+Time taken: 23766 sec
